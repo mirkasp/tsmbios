@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession><PathDelim Value="\"/><Version Value="9"/><BuildModes Active="Default"/><Units Count="2"><Unit0><Filename Value="MemoryModuleInfo.lpr"/><IsPartOfProject Value="True"/><UnitName Value="MemoryModuleInfo"/></Unit0><Unit1><Filename Value="..\..\source\uSMBIOS.pas"/><IsPartOfProject Value="True"/><UnitName Value="uSMBIOS"/></Unit1></Units><General><ActiveWindowIndexAtStart Value="0"/></General></ProjectSession>
+</CONFIG>
